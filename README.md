@@ -1,4 +1,3 @@
-# NLP-projects
 # NLP Projects Collection
 
 This repository contains a series of natural language processing (NLP) mini-projects developed using Python, HuggingFace Transformers, and PyTorch.
